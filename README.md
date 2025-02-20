@@ -4,21 +4,13 @@ Welcome to **SASlog** – a curated collection of SAS programs and macros design
 
 ## 🔍 About This Repository
 
-This repository contains:
-
-- **SAS Utility Macros** – Reusable macros to streamline and automate common SAS programming tasks.
-- **Advanced Sample Programs** – Code snippets handling widely known statistical and clinical programming tasks.
-- **Real-World Pharmaceutical Applications** – Examples such as:
-  - Data manipulation and transformation techniques for **CDISC SDTM & ADaM datasets**.
-  - Automation scripts for **efficiency in clinical trial reporting**.
+**SASlog** is designed to:
+1. **Demonstrate Technical Skills**: Showcase my SAS programming abilities, focusing on real-world tasks encountered in the pharmaceutical industry.
+2. **Share Utility Macros**: Include reusable macros that streamline common tasks in data processing, reporting, and analytics.
+3. **Provide Advanced Examples**: Offer sample programs addressing widely recognized challenges, such as grading laboratory tests based on **CTCAE v5.0**.
+4. **Encourage Knowledge Sharing**: Serve as a reference for SAS programmers interested in similar coding approaches.
 
 I plan to continuously update this repository with insightful code examples, best practices, and useful programming techniques.
-
-## 📌 Why This Repository?
-
-- **Showcase Expertise**: Demonstrate proficiency in SAS programming with real-world examples.
-- **Reference for Programmers**: Provide ready-to-use code snippets and macros.
-- **Collaborate & Learn**: Engage with other SAS programmers, exchange ideas, and discuss technical challenges.
 
 ## 📂 Repository Structure
 
@@ -31,13 +23,13 @@ SASlog/
 └── README.md              # This file
 ```
 
-## 📣 Connect & Collaborate
+## 📣 Future Plans
 
-If you find this repository useful, feel free to **star** ⭐ the repo and **fork** 🍴 it to contribute. Discussions and feedback are welcome via **GitHub Issues**. 
-<!--- or by opening **Pull Requests**. --->
+* **Additional Macros**: Plan to add more specialized utility macros for data manipulation, reporting, and automation.
+* **Expanded Pharma Use Cases**: Examples that demonstrate data standardization (e.g., CDISC SDTM/ADaM), efficacy analyses, and safety reporting.
+* **Knowledge Sharing**: Engage in discussions with other SAS programmers through GitHub Issues.
 
-📧 Feel free to connect with me on **GitHub Discussions**, or drop me a message if you have any questions about the code!
 
----
+🚀 **This repository is intended as a personal showcase of my SAS programming work. Contributions are not open at this time, but discussions and feedback are always welcome!**
 
-🚀 **Stay tuned for updates as I continue to expand this repository!**
+Thank you for visiting **SASlog**, and stay tuned for updates!
