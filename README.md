@@ -20,7 +20,8 @@ SASlog/
 ├── sample-programs/       # Advanced code examples for pharma tasks
 ├── data/                  # Example input datasets (if needed)
 ├── docs/                  # Additional documentation or references
-└── README.md              # This file
+├── README.md              # This file
+└── LICENSE                # License file for sharing policy
 ```
 
 ## 📣 Future Plans
